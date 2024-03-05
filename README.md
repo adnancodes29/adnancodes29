@@ -13,7 +13,7 @@
 <br>
 <span>Version Control: </span> <code>Git</code> <code>GitHub</code>
 <br>
-<span>Programms: </span> <code>Adobe Photoshop</code> <code>Adobe Illustrator</code> <code>Adobe XD</code> <code>Adobe Animate</code> <code>Figma</code>
+<span>Programs: </span> <code>Adobe Photoshop</code> <code>Adobe Illustrator</code> <code>Adobe XD</code> <code>Adobe Animate</code> <code>Figma</code>
 <br>
 <span>Package Manager: </span> <code>npm</code> <code>yarn</code>
 <br>
